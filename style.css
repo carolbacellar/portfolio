@@ -59,6 +59,10 @@ footer img {
     height: 40px;
 }
 
+footer img:hover {
+    opacity: 0.5;
+}
+
 footer {
     display: flex;
     justify-content: center;
