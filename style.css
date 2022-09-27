@@ -50,6 +50,10 @@ h2 {
     margin-top: 4px;
 }
 
+b {
+    color: midnightblue;
+}
+
 footer img {
     width: 40px;
     height: 40px;
@@ -76,5 +80,5 @@ footer p {
 }
 
 nav a:hover {
-    color: blue;
+    color: midnightblue;
 }
