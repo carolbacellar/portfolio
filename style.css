@@ -40,8 +40,6 @@ header img:hover {
 .main {
     text-align: center;
     width: 50%;
-    display: flex;
-    justify-content: center;
 }
 
 .just {
