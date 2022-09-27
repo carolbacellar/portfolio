@@ -36,6 +36,8 @@ header img:hover {
 .main {
     text-align: center;
     width: 50%;
+    display: flex;
+    justify-content: center;
 }
 
 .just {
@@ -70,6 +72,10 @@ footer a {
     margin: 15px;
     text-align: center;
     font-size: 12px;
+}
+
+footer img:hover {
+        opacity: 0.5;
 }
 
 footer p {
