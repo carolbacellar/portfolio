@@ -28,6 +28,10 @@ header img {
     text-align: center;
 }
 
+.just {
+    text-align: justify;
+}
+
 h1 {
     color: white;
     margin-bottom: 4px;
