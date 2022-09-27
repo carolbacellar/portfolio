@@ -3,10 +3,9 @@ body {
     background-color: black;
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
-    align-items: center;
-    justify-content: center;
+  align-items: center;
+  justify-content: center;
 }
-
 
 ul {
     display: flex;
@@ -29,17 +28,12 @@ header img {
 }
 
 header img:hover {
-        opacity: 0.5;
+    opacity: 0.5;
 }
 
 
 .center {
     text-align: center;
-}
-
-.main {
-    text-align: center;
-    width: 50%;
 }
 
 .just {
@@ -54,10 +48,6 @@ h1 {
 h2 {
     color: midnightblue;
     margin-top: 4px;
-}
-
-b {
-    color: midnightblue;
 }
 
 footer img {
@@ -76,16 +66,13 @@ footer a {
     font-size: 12px;
 }
 
-footer img:hover {
-        opacity: 0.5;
-}
-
 footer p {
     margin-top: 4px;
 }
 
 .container {
     padding: 0px 50px;
+    width: 50%;
 }
 
 nav a:hover {
