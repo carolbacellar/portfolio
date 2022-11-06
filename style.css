@@ -3,8 +3,8 @@ body {
     background-color: black;
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
-  align-items: center;
-  justify-content: center;
+    align-items: center;
+    justify-content: center;
 }
 
 ul {
@@ -32,7 +32,7 @@ header img:hover {
 }
 
 
-.center {
+.center, .imagens, .reels {
     text-align: center;
 }
 
@@ -50,17 +50,9 @@ h2 {
     margin-top: 4px;
 }
 
-b {
-    color: midnightblue;
-}
-
 footer img {
     width: 40px;
     height: 40px;
-}
-
-footer img:hover {
-    opacity: 0.5;
 }
 
 footer {
@@ -84,5 +76,23 @@ footer p {
 }
 
 nav a:hover {
-    color: midnightblue;
+    color: blue;
+}
+
+.imagens img, .imagens video {
+    width: 150px;
+    height: 150px;
+}
+
+.perfil {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid midnightblue;
+}
+
+.reels video {
+    width: 30% !important;
+    height: 30% !important;
+    align-items: center;
 }
