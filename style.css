@@ -32,7 +32,7 @@ header img:hover {
 }
 
 
-.center, .imagens, .reels {
+.center, .posts, .reels {
     text-align: center;
 }
 
@@ -79,7 +79,7 @@ nav a:hover {
     color: blue;
 }
 
-.imagens img, .imagens video {
+.posts img, .posts video {
     width: 150px;
     height: 150px;
 }
